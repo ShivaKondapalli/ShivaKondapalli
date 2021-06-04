@@ -3,7 +3,7 @@
 dividends in the future. Or in the words of Vladimir Vapnik: "Nothing is more practical than a good theory"
 - 🌱 I’m currently learning Deep Learning, TDA, algebraic statistics, Reinforcement learning, causality, information geometry and whatever new math that fascinates me. 
 - 💞️ I’m looking to collaborate on areas at the intersection of Deep learning and the above fields I just mentioned. 
-- 📫 You can reachh me at https://www.linkedin.com/in/shivakondapalli/ or my email 1993ksk@gmail.com
+- 📫 You can reach me at https://www.linkedin.com/in/shivakondapalli/ or my email 1993ksk@gmail.com
 
 <!---
 ShivaKondapalli/ShivaKondapalli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
